@@ -41,15 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: sky
-    uniqueID: 1366149689
-    locked: 0
-  - name: clouds
-    uniqueID: 391536129
-    locked: 0
-  - name: ground
+  - name: back
     uniqueID: 1365221529
     locked: 0
-  - name: player
+  - name: front
     uniqueID: 395835535
     locked: 0
